@@ -7,3 +7,6 @@
 *.cmx
 *.cmxs
 *.cmxa
+node_modules
+.jenga
+.merlin

@@ -1,0 +1,11 @@
+{
+  "name": "ocamlBytes",
+  "version": "0.0.1",
+  "description": "Bytes module for ocaml <= 4.02",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsansouci/ocaml-bytes.git"
+  },
+  "author": "chambart"
+}
+

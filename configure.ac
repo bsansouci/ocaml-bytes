@@ -1,4 +1,4 @@
-AC_INIT(bytes.mli)
+AC_INIT(src/bytes.mli)
 
 AC_PROG_OCAML
 if test "$OCAMLC" = "no"; then
